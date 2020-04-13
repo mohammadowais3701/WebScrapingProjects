@@ -1,0 +1,412 @@
+Index,SiteLink,StoryLink,Title,VoteID
+1.,colornames.org,https://colornames.org/,Colornames.org – A collaborative effort to name all 16.7M colors,22852646
+2.,jurn.io,https://blog.jurn.io/international-payments-freelancers/,Saving Money on International Payments as a Remote Freelancer,22854120
+3.,unixsheikh.com,https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html,Technical reasons to choose FreeBSD over GNU/Linux,22852316
+4.,luminusweb.com,https://luminusweb.com/,Luminus – A Clojure Web Framework,22852375
+5.,eatonphil.com,https://notes.eatonphil.com/database-basics.html,Writing a SQL database from scratch in Go,22850817
+6.,ca.gov,https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/driverlesstestingpermits,"As of April 7, 2020, CA DMV has issued two Driverless Vehicle Testing Permits",22852982
+7.,github.com,https://github.com/ssloy/triador,Building a ternary computer at home: a software emulator,22854022
+8.,medium.com,https://medium.com/programming-servo/programming-servo-my-own-private-runtime-8a5ba74c63c8,Programming Servo: My own private runtime,22840150
+9.,gitbook.io,https://paytonturnage.gitbook.io/valora/,Show HN: Write generative fine art in Rust,22837990
+10.,youtube.com,https://www.youtube.com/watch?v=hB78NXH77s4,"Conway's Game of Life on Dec PDP-7, Type 340 Display, & Am Radio ByteBeat Music",22853920
+11.,bbc.com,https://www.bbc.com/news/science-environment-52264743,Apollo 13 enhanced images reveal life on stricken spacecraft,22852125
+12.,tratt.net,http://tratt.net/laurie/blog/entries/why_arent_more_users_more_happy_with_our_vms_part_1.html,Why Aren’t More Users More Happy With Our VMs? Part 1 (2018),22850386
+13.,xdobry.de,http://www.xdobry.de/tclsqueak/,TclSqueak – IDE for Tcl,22852484
+14.,city-journal.org,https://www.city-journal.org/next-generation-nuclear-power,"New nuclear reactor designs promise safe, clean electricity",22851622
+15.,twitter.com,https://twitter.com/kenshirriff/status/1249090752983912448,I found an obscure political joke in the scan of a 1971 IBM logic block manual,22846435
+16.,acm.org,https://dl.acm.org/doi/pdf/10.1145/1297027.1297078,Confessions of a Used Programming Language Salesman (2007),22844009
+17.,arstechnica.com,https://arstechnica.com/?p=1667508,Digital hoarders: Our terabytes are put to use for the betterment of mankind,22848296
+18.,quantamagazine.org,https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/,Does time really flow? New clues from intuitionist math,22848766
+19.,youtube.com,https://www.youtube.com/watch?reload=9&v=qSKBtEBRWi4,Hacking my arm prosthesis to output CV so that it plugs into my synth [video],22842062
+20.,phys.org,https://phys.org/news/2020-04-sighting-mysterious-majorana-fermion-common.html,First sighting of Majorana fermion on a common metal,22832410
+21.,physics-astronomyblog.blogspot.com,https://physics-astronomyblog.blogspot.com/2019/02/nasas-1-billion-spacecraft-has-taken.html,Photos of Jupiter from Juno space probe (2018),22853604
+22.,vox.com,https://www.vox.com/the-highlight/2020/3/28/21195850/ethiopian-food-washington-dc-history-desta-bairu,“Mamma Desta” and Ethiopian food in the U.S,22850976
+23.,github.com,https://github.com/DP-3T/documents,DP-3T/Documents: Decentralized Privacy-Preserving Proximity Tracing,22840413
+24.,twitter.com,https://twitter.com/CardColm/status/1249038195880341505,John Conway has died,22843306
+25.,mookerj.ee,https://party.mookerj.ee,Show HN: Spatially aware group video calls from the browser,22839627
+26.,economist.com,https://www.economist.com/news/technology-quarterly/21590765-louis-pouzin-helped-create-internet-now-he-campaigning-ensure-its,The internet’s fifth man (2013),22846782
+27.,youtube.com,https://www.youtube.com/watch?v=a9xAKttWgP4,Conway's Game Of Life in APL (2009) [video],22845249
+28.,wikipedia.org,https://en.wikipedia.org/wiki/Entropy_and_life,Entropy and Life,22849554
+29.,github.com,https://github.com/objective-see/BlockBlock,BlockBlock 1.0.0 beta – rewritten and open source,22851167
+30.,mit.edu,https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm,How to Speak (2018) [video],22848034
+32.,theverge.com,https://www.theverge.com/2020/4/12/21217060/foxconn-wisconsin-innovation-centers-empty-buildings,"Foxconn’s buildings in Wisconsin are still empty, one year later",22850723
+33.,harvardlawreview.org,https://harvardlawreview.org/2020/04/white-v-square/,California Supreme Court: Transaction is not required to sue online providers,22850791
+34.,abitawake.com,https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding,Enemy AI: chasing a player without Navigation2D or A* pathfinding,22848106
+35.,atlasobscura.com,https://www.atlasobscura.com/articles/drive-in-theaters-adapt-to-coronavirus,Social distancing is bringing drive-in theaters back to life,22847491
+36.,elevatorparty.chat,https://elevatorparty.chat/,Show HN: Elevator party – An interactive small talk experience,22842016
+37.,belkadan.com,https://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/,So you want to be a compiler wizard (2016),22848450
+38.,github.com,https://github.com/saasify-sh/twitter-search,Show HN: Search your Twitter history with Algolia,22842542
+39.,github.com,https://github.com/ianramzy/decentralized-video-chat,Zipcall.io – Free browser-based video calling,22850657
+40.,tomsguide.com,https://www.tomsguide.com/news/nasty-macos-flaw-is-bricking-macbooks-dont-install-this-update,Nasty macOS flaw is bricking MacBooks: Don't install this update,22845629
+41.,rachelbythebay.com,https://rachelbythebay.com/w/2020/04/11/pengrun/,Bored? How about trying a Linux speed run?,22846250
+42.,youtube.com,https://www.youtube.com/watch?v=R9Plq-D1gEk,Inventing Game of Life (2014) [video],22850004
+43.,marinetraffic.com,https://www.marinetraffic.com/en/ais/home/centerx:115.3/centery:17.0/zoom:2,MarineTraffic: Global Ship Tracking Intelligence,22850025
+44.,semiengineering.com,https://semiengineering.com/why-its-so-hard-to-create-new-processors/,Why It’s So Hard to Create New Processors,22841269
+45.,jpmens.net,https://jpmens.net/2020/04/12/rediscovering-carddav/,Rediscovering CardDAV,22847462
+46.,fastmail.com,https://beta.fastmail.com/help/receive/labels-beta.html,Fastmail Labels Beta,22847799
+47.,rochester.edu,https://www.rochester.edu/newscenter/discovery-of-classic-pi-formula-a-cunning-piece-of-magic-128002/,The formula for pi buried in a hydrogen atom,22844196
+48.,developer.github.com,https://developer.github.com/changes/2020-02-14-deprecating-password-auth/,Deprecating password authentication in GitHub API,22848192
+49.,eggroyale.com,https://eggroyale.com,Show HN: Virtual egg tapping Easter game,22848721
+50.,github.com,https://github.com/jauhien/iron-kaleidoscope,Iron Kaleidoscope: LLVM Tutorial in Rust,22851323
+51.,storystreamer.live,https://storystreamer.live/,Show HN: Storystreamer – Snap/Instagram Stories UI Inspired News Reader,22843493
+52.,reddit.com,https://www.reddit.com/r/nim/comments/fz7x3e/nimporter_v100_is_out/,Nimporter 1.0 released (seamlessly import Nim code from Python),22850374
+53.,youtube.com,https://www.youtube.com/watch?v=tmx2tpcdKZY,John Conway – The Free Will Lectures (2009) [video],22844458
+54.,theverge.com,https://www.theverge.com/2020/4/10/21216092/samsung-rising-book-interview-geoffrey-cain,"“Samsung Rising” goes deep on corruption, chaebols, and corporate chaos",22832884
+55.,nytimes.com,https://www.nytimes.com/2020/04/12/business/media/disney-ceo-coronavirus.html,"Bob Iger Thought He Was Leaving on Top. Now, He’s Fighting for Disney’s Life",22852942
+56.,medium.com,https://medium.com/@alexhowlett/youtube-accidentally-permanently-terminated-my-account-4b5852c80679,YouTube accidentally permanently terminated my account,22842774
+57.,github.com,https://github.com/0xGG/vscode-crossnote,Show HN: Crossnote – a note taking extension for VSCode,22848137
+58.,osint.fans,https://osint.fans/coronavirus-spam-selling-pandemic-survival-ebook,Who is running the Pandemic Survival fear-mongering spam campaign,22851781
+59.,github.com,https://github.com/18F/technology-budgeting/blob/master/handbook.md,De-risking custom technology projects: 18F technology budgeting guide,22847877
+60.,reuters.com,https://www.reuters.com/article/idUSKCN21U0GV,"Seen everywhere in last U.S. crisis, moral hazard is nowhere in this one",22849081
+61.,jonas-schuermann.name,https://jonas-schuermann.name/projects/dvcs-for-structured-data/blog/2020-03-22-manifesto.html,I Want Decentralized Version Control for Structured Data,22843085
+62.,quantamagazine.org,https://www.quantamagazine.org/the-new-science-of-seeing-around-corners-20180830/,The New Science of Seeing Around Corners (2018),22841857
+63.,rachitnigam.com,https://rachitnigam.com/post/virtual-cs-conferences/,The cost of virtualizing CS conferences,22848216
+65.,liw.fi,https://ideas.liw.fi/rethinking-email.html,Re-Thinking Electronic Mail,22847092
+66.,dadgum.com,https://prog21.dadgum.com/116.html,Things That Turbo Pascal Is Smaller Than (2011),22843140
+67.,iquilezles.org,https://www.iquilezles.org/www/index.htm,"Blog of Inigo Quilez, Creator of Shadertoy",22845668
+68.,surge.sh,http://evolve-game.surge.sh/,Evolve – The Game of Insanity – A minimal simulation game,22849172
+69.,mathoverflow.net,https://mathoverflow.net/questions/357197/conways-lesser-known-results?stw=2,Conway's Lesser-Known Results,22852022
+70.,theguardian.com,https://www.theguardian.com/world/2020/apr/11/china-clamping-down-on-coronavirus-research-deleted-pages-suggest,"China clamping down on coronavirus research, deleted pages suggest",22849747
+71.,distancing.party,https://distancing.party/,Show HN: Distancing.party – Send love and happiness to others around the world,22850594
+72.,lightbluetouchpaper.org,https://www.lightbluetouchpaper.org/2020/04/12/contact-tracing-in-the-real-world/,Contact Tracing in the Real World,22847547
+73.,thedrive.com,https://www.thedrive.com/the-war-zone/32869/this-man-owns-the-worlds-most-advanced-private-air-force-after-buying-46-f-a-18-hornets,A man owns the most advanced private air force after buying 46 F/A-18s,22834058
+74.,infoq.com,https://www.infoq.com/presentations/java-language-records-sealed-types/,Records and Sealed Types – Coming Soon to a JVM Near You,22846586
+75.,wikipedia.org,https://en.wikipedia.org/wiki/Blohm_%26_Voss_BV_141,Blohm and Voss BV 141,22846688
+76.,technologyreview.com,https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/,The messy secret reality behind OpenAI,22849538
+77.,wikipedia.org,https://en.wikipedia.org/wiki/Gu%C3%A9delon_Castle,Guédelon Castle,22844118
+78.,senatestockwatcher.com,https://senatestockwatcher.com,Senate Stock Watcher,22834524
+79.,medium.com,https://medium.com/the-ethereum-name-service/all-the-ways-you-can-surf-the-decentralized-web-today-bf8e7a42fa27,Ways to surf some of the decentralized web,22843919
+80.,candyjapan.com,https://www.candyjapan.com/behind-the-scenes/on-pause-due-to-covid19,Candy Japan Shipments Paused,22849250
+81.,quantamagazine.org,https://www.quantamagazine.org/john-conways-life-in-games-20150828/,John Conway: A Life in Games (2015),22844820
+82.,youtube.com,https://www.youtube.com/watch?v=xP5-iIeKXE8&t=5s,Conway's Game of Life Implemented in Conway's Game of Life,22849264
+83.,wired.com,https://www.wired.com/story/after-50-years-of-effort-researchers-made-silicon-emit-light/,"After 50 years of effort, researchers made silicon emit light",22840034
+84.,cnn.com,https://www.cnn.com/videos/us/2020/04/13/farmers-destroy-food-banks-lemon-ctn-vpx.cnn,Massive lines at food banks grow as some farmers destroy food,22853102
+86.,bollu.github.io,http://bollu.github.io/#blazing-fast-math-rendering-on-the-web,Fast Math Rendering on the Web,22844907
+87.,jooseph.com,https://jooseph.com/,Show HN: Playlists for learning,22848861
+88.,inputmag.com,https://www.inputmag.com/tech/ibm-will-offer-free-cobol-training-to-address-overloaded-unemployment-systems,IBM will offer free COBOL training,22839943
+89.,acm.org,https://queue.acm.org/detail.cfm?id=1039523,A Conversation with Alan Kay (2004),22847079
+90.,arxiv.org,https://arxiv.org/abs/1912.04870,V0LTpwn: Attacking x86 Processor Integrity from Software,22845518
+91.,flickr.com,https://www.flickr.com/photos/jackdorsey/182613360/in/photostream/,Twttr sketch (2006),22845373
+92.,onezero.medium.com,https://onezero.medium.com/our-government-runs-on-a-60-year-old-coding-language-and-now-its-falling-apart-61ec0bc8e121,"Our Government Runs on a 60-Year-Old Coding Language, and Now Its Falling Apart",22847077
+93.,fashion-incubator.com,https://fashion-incubator.com/sleeve_cap_ease_is_bogus/,Sleeve cap ease is bogus (2005),22842383
+94.,microsoft.com,https://devblogs.microsoft.com/oldnewthing/20140627-00/?p=633,Undefined behavior can result in time travel (2014),22848423
+95.,insidehighered.com,https://www.insidehighered.com/views/2019/09/13/lydia-pyne-genuine-fakes-how-phony-things-teach-us-about-real-stuff,Evaluating the Genuine Fake (2019),22838119
+96.,researchly.app,https://www.researchly.app/analytics/dashboard,Show HN: NLP-based tool for technology research,22847429
+97.,github.com,https://github.com/iGeeky/wolf,An authentication and authorization system based on RBAC for restful APIs,22846414
+98.,mwl.io,https://mwl.io/archives/6210,"The Print Book Trade, and Money",22836698
+99.,infoq.com,https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/,eBPF – Rethinking the Linux Kernel,22847164
+100.,redsand.io,https://redsand.io/,Show HN: Redsand.io – Find partners for software projects,22840728
+101.,archive.org,https://archive.org/details/james-burke-connections_s01e01,Connections Episode 1: The Trigger Effect (1978) [video],22841601
+102.,bitflate.org,https://bitflate.org/post/2020/04/11/the-coronavirus-and-a-deflationary-crisis.html,The Coronavirus and a Deflationary Crisis,22850977
+103.,archithector.com,https://archithector.com/technical-debt/,Eisenhower Matrix and Technical Debt,22846693
+104.,stephendiehl.com,http://dev.stephendiehl.com/hask/,What I Wish I Knew When Learning Haskell,22840211
+105.,gwern.net,https://www.gwern.net/Turing-complete,Surprisingly Turing-Complete,22839035
+106.,onezero.medium.com,https://onezero.medium.com/the-morning-paper-revisited-35b407822494,E Ink smart screen puts a newspaper on your wall,22831323
+107.,smalldata.tech,https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview,Questions to ask at the end of a technical interview (2017),22841164
+108.,apnews.com,https://apnews.com/8ccd325c2be9bf454c2128dcb7bd616d,Some doctors moving away from ventilators for virus patients,22843908
+109.,heavyfishdesign.com,http://heavyfishdesign.com,Show HN: HFD – A design language for laser cutters written in Go,22845733
+110.,andymatuschak.org,https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy,Prefer associative ontologies to hierarchical taxonomies,22841171
+111.,github.com,https://github.com/doccano/doccano,Doccano: Open-source text annotation tool for machine learning,22846811
+112.,figma.com,https://www.figma.com/blog/line-height-changes/,Getting to the bottom of line height (2019),22843964
+113.,youtube.com,https://www.youtube.com/watch?v=LnzuMJLZRdU,“Hello world” from scratch on a 6502 (2019) [video],22844520
+114.,technologyreview.com,https://www.technologyreview.com/2020/03/27/950258/google-ai-chip-design-reinforcement-learning/,Google is using AI to design chips that will accelerate AI,22850972
+115.,github.com,https://github.com/aaronjanse/3mux,Show HN: Terminal Multiplexer Inspired by I3,22843705
+116.,docs.google.com,https://docs.google.com/gview?url=https://raw.githubusercontent.com/MikaeI/frax/master/Frax%20presentation.pdf&embedded=true,Show HN: Frax – Experimental abstraction layer for coding of web UIs,22837301
+117.,d7y.io,https://d7y.io/en-us/,"Dragonfly, an Open-Source P2P-Based Image and File Distribution System",22844597
+118.,rachitnigam.com,https://rachitnigam.com/post/first-two-years/,The first two years of my PhD,22842190
+119.,pine64.org,https://store.pine64.org/?product=pinephone-community-edition-ubports-limited-edition-linux-smartphone,Pinephone – Community Edition: UBports,22844223
+120.,chrome.google.com,https://chrome.google.com/webstore/detail/tablist/eagbohciligljbgpbdbflaloangiodhe,Show HN: Tablist – a chrome extension to copy and paste lists of open tabs,22841708
+121.,pipxproject.github.io,https://pipxproject.github.io/pipx/,Pipx – Install and Run Python Applications in Isolated Environments,22846787
+122.,nytimes.com,https://www.nytimes.com/2020/04/12/us/coronavirus-biogen-boston-superspreader.html,A Premier U.S. Drug Company Became a Virus ‘Super Spreader’,22853197
+123.,cgrand.net,http://clj-me.cgrand.net/2011/08/19/conways-game-of-life/,Conway’s Game of Life in Clojure (2011),22848598
+124.,shopify.com,https://engineering.shopify.com/blogs/engineering/optimizing-ruby-lazy-initialization-in-truffleruby-with-deoptimization,Optimizing Ruby lazy initialization in TruffleRuby with deoptimization,22841847
+125.,ecowatch.com,https://www.ecowatch.com/mutant-enzyme-recycles-plastic-2645686207,"Mutant Enzyme Recycles Plastic in Hours, Could Revolutionize Recycling Industry",22850053
+126.,bloomberg.com,https://www.bloomberg.com/news/features/2017-04-04/uncovering-the-secret-history-of-wall-street-s-largest-oil-trade,Wall Street’s Largest Oil Trade (2017),22844260
+127.,lithub.com,https://lithub.com/the-wolves-of-stanislav-an-improbably-true-parable-for-the-pandemic-age/,The Wolves of Stanislav: An Improbably True Parable for the Pandemic Age,22839603
+128.,freerdp.com,https://www.freerdp.com/,FreeRDP 2.0 – A Remote Desktop Protocol implementation,22834286
+129.,siliconvalley.com,https://www.siliconvalley.com/2020/04/12/qa-this-san-francisco-based-author-wants-to-abolish-silicon-valley-to-save-it-from-capitalism/,SF-based author wants to “Abolish Silicon Valley” to save it from capitalism,22852844
+130.,phys.org,https://phys.org/news/2020-04-scientists-tokyo-skytree-einstein-theory.html,Scientists use the Tokyo Skytree to test general relativity,22831715
+131.,wired.com,https://www.wired.com/2013/07/bezos-apollo-11/,Rocket Engine Pulled from the Ocean Definitely Belonged to Apollo 11,22851657
+132.,lookingglassfactory.com,https://blog.lookingglassfactory.com/process/shining-a-flashlight-on-digital-holography/,Shining a Flashlight on Digital Holography,22832627
+133.,rolisz.ro,https://rolisz.ro/2020/04/11/moving-away-from-gmail/,Moving Away from Gmail,22843326
+134.,planetscale.com,https://www.planetscale.com/blog/behind-the-scenes-at-planetscale-engineering-why-is-multi-cloud-a-hard-problem,Why is Multi-Cloud a Hard Problem?,22837036
+135.,eff.org,https://www.eff.org/deeplinks/2020/04/twitter-removes-privacy-option-and-shows-why-we-need-strong-privacy-laws,"Twitter Removes Privacy Option, and Shows Why We Need Strong Privacy Laws",22849878
+136.,nelhage.com,https://blog.nelhage.com/post/systems-that-defy-understanding/,Systems that defy detailed understanding,22833601
+137.,bennadel.com,https://www.bennadel.com/blog/3809-rediscovering-my-love-of-coldfusion-and-cfml-in-2020.htm,InvisionApp Co-Founder: Rediscovering My Love of ColdFusion and CFML in 2020,22852171
+138.,tryfitfirst.com,https://www.tryfitfirst.com/home/every-levis-fit-number-compared,I measured hundreds of Levi's jeans and compared how every pair fits,22844685
+139.,columbia.edu,https://statmodeling.stat.columbia.edu/2020/03/24/why-we-sleep-a-tale-of-institutional-failure/,Why We Sleep: A Tale of Institutional Failure,22844723
+140.,developer.sh,https://developer.sh/posts/computer-science-papers,Get started with computer science papers,22843097
+141.,apple.com,https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/,Apple and Google partner on Covid-19 contact tracing technology,22834959
+142.,gwern.net,https://www.gwern.net/docs/www/www.changizi.com/82e766ee9a407241bcbcfd5b9e2c69d1083ecba1.pdf,Harnessing Vision for Computation (2008) [pdf],22839012
+143.,ptls.dev,https://ptls.dev/,Pointless,22838255
+144.,laphamsquarterly.org,https://www.laphamsquarterly.org/roundtable/walt-whitmans-gift,Walt Whitman’s Gift,22839583
+145.,tillett.info,https://www.tillett.info/2020/04/12/how-would-a-search-for-a-natural-attenuated-sars-cov-2-strain-work-in-practice/,"A possible solution to Covid-19, part 2: how would it work in practice",22848584
+146.,nasa.gov,https://www.nasa.gov/feature/jpl/mars-helicopter-attached-to-nasas-perseverance-rover,Mars Helicopter Attached to NASA's Perseverance Rover,22843691
+148.,neilconway.org,http://www.neilconway.org/talks/hacking/,Introduction to Hacking PostgreSQL (2007),22838130
+149.,rodarmor.com,https://rodarmor.com/blog/intermodal,Intermodal: A new command-line BitTorrent metainfo utility,22838970
+150.,asahi.com,http://www.asahi.com/ajw/articles/13273986,Nasal vaccine for Alzheimer’s cuts atrophied brain matter in mice,22841422
+151.,github.com,https://github.com/watson/awesome-computer-history,"List of computer history videos, documentaries and related folklore (2018)",22841022
+152.,github.com,https://github.com/zenghongtu/vscode-asciiflow2,Asciiflow in vs Code,22840295
+154.,acbart.github.io,https://acbart.github.io/ihateracket.com/,Why We Should Teach Python instead of Racket,22840867
+155.,twitter.com,https://twitter.com/moxie/status/1248707315626201088,First look at Apple/Google contact tracing framework,22837356
+156.,darkblueheaven.com,https://darkblueheaven.com/spatialsoftware/,Spatial Software,22838430
+157.,abe-winter.github.io,https://abe-winter.github.io/2020/04/10/leaky.html,Leakage paths for the Apple / Google Bluetooth tracing system,22838466
+158.,prospectmagazine.co.uk,https://www.prospectmagazine.co.uk/magazine/ge-moore-philosophy-books-analytic-ray-monk-biography,Why did GE Moore disappear from history?,22836685
+159.,theconversation.com,https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393,Edward Bernays and the birth of public relations (2015),22834901
+160.,theregister.co.uk,https://www.theregister.co.uk/2020/04/10/on_call/,Fatal disk errors on an Amiga 4000 unless the clock app is just so,22842905
+161.,citynews1130.com,https://www.citynews1130.com/2020/04/09/amateur-radio-operators-turn-to-analog-tech-to-communicate-during-pandemic/,Amateur radio operators turn to analog tech to communicate during pandemic,22839063
+162.,agonialands.com,https://agonialands.com/,Agonia: A text-based adventure/fighting RPG,22843533
+163.,wikipedia.org,https://en.wikipedia.org/wiki/SCOOP_(software),SCOOP: Simple Concurrent Object Oriented Programming,22842338
+165.,vector.dev,https://vector.dev/blog/how-we-test-vector/,A survey of testing techniques we've found useful,22834548
+166.,adlrocha.substack.com,https://adlrocha.substack.com/p/adlrocha-performance-best-practices-50a,Performance Best Practices in Hyperledger Fabric IV: SDK,22846858
+167.,handsan.ca,https://handsan.ca/,Ottawa man sending free sanitizer,22840869
+168.,reactos.org,https://reactos.org/project-news/reactos-0413-released/,ReactOS 0.4.13,22839563
+169.,techrepublic.com,https://www.techrepublic.com/article/using-a-raspberry-pi-zero-scsi-adapter-to-bring-legacy-and-retro-systems-into-the-future/,RaSCSI: SCSI Interface for Raspberry Pi (2019),22842281
+170.,paulbrittain.net,https://paulbrittain.net/covid19-contact-tracing/,Apple and Google Covid-19 Contact Tracing,22849400
+171.,causal.app,https://www.causal.app/blog/forecasting-with-uncertainty,Forecasting with uncertainty,22842847
+172.,theregister.co.uk,https://www.theregister.co.uk/2020/04/09/frenchman_ejected_fighter_jet_retirement_jolly/,French pensioner ejected from fighter jet after accidentally grabbing handle,22851561
+173.,steveklabnik.com,https://words.steveklabnik.com/how-often-does-rust-change,How often does Rust change?,22842442
+174.,reuters.com,https://www.reuters.com/article/us-google-france/france-rules-google-must-pay-news-firms-for-content-idUSKCN21R14X,France rules Google must pay news firms for content,22842521
+175.,youtube.com,https://www.youtube.com/watch?v=VO_1AdYRGW8,"San Francisco, a Trip Down Market Street, April 14, 1906",22849892
+176.,zdnet.com,https://www.zdnet.com/article/bootstrap-a-ui-framework-used-by-20-of-internet-sites-is-dropping-ie-support/,"Bootstrap, a UI framework used by 20% of internet sites, is dropping IE support",22847311
+177.,morgenpost.de,https://interaktiv.morgenpost.de/corona-deutschland-intensiv-betten-monitor-krankenhaus-auslastung/,Map of usage of intensive care beds in Germany,22838576
+178.,shihmengli.github.io,https://shihmengli.github.io/3D-Photo-Inpainting/,3D photographic inpainting from a single source image,22837697
+179.,joewoods.dev,https://blog.joewoods.dev/technology/display-p3/,Colors on the Web Are Getting Intense with Display-P3,22841232
+180.,fossil-scm.org,https://www.fossil-scm.org/,"Fossil: A decentralized version control, bug tracking, and wiki software",22843068
+181.,readastorytome.com,http://readastorytome.com/,Show HN: We made a web app so that our parents can keep reading to our daughter,22836940
+182.,napavalleyregister.com,https://napavalleyregister.com/news/local/new-signs-suggest-coronavirus-was-in-california-far-earlier-than-anyone-knew/article_94ed3767-6fe0-5154-b624-078e544451b3.html,New signs suggest coronavirus was in California far earlier than anyone knew,22846219
+183.,zserge.com,https://zserge.com/posts/j/,Ode to J,22831931
+184.,nytimes.com,https://www.nytimes.com/2020/04/09/arts/mort-drucker-dead.html,Mort Drucker has died,22832440
+185.,atlasobscura.com,https://www.atlasobscura.com/articles/globemaker-digital-cartography,A Globemaker Navigates a Digital World,22842921
+186.,scottaaronson.com,https://www.scottaaronson.com/blog/?p=4732,John Horton Conway,22847096
+187.,nostromo.sh,https://nostromo.sh/,Nostromo: CLI for Building Powerful Aliases,22840164
+188.,arstechnica.com,https://arstechnica.com/features/2020/04/some-shirts-hide-you-from-cameras-but-will-anyone-wear-them/,"Some shirts hide you from cameras, but will anyone wear them?",22832660
+189.,ghacks.net,https://www.ghacks.net/2020/04/09/mozilla-installs-scheduled-telemetry-task-on-windows-with-firefox-75/,Mozilla Installs Scheduled Telemetry Task on Windows with Firefox 75,22847116
+190.,vub.ac.be,http://pespmc1.vub.ac.be/ASHBBOOK.html,Introduction to Cybernetics (1957),22838207
+192.,msn.com,https://www.msn.com/en-us/health/medical/false-negatives-raise-doctors-doubts-about-coronavirus-tests/ar-BB12uwHS,False Negatives Raise Doctors' Doubts About Coronavirus Tests,22852798
+193.,nora.codes,https://nora.codes/post/stop-making-students-use-eclipse/,Don't Make Students Use Eclipse,22844788
+194.,diginomica.com,https://diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue,How AI startup BlueDot spotted Coronavirus before the WHO,22846596
+195.,medium.com,https://medium.com/ai-society/rl-4-all-1-3edac941fe37,Teaching machines to behave: Reinforcement Learning,22851121
+196.,nih.gov,https://www.ncbi.nlm.nih.gov/pubmed/21079686,Zn(2) Inhibits Coronavirus (2010),22845765
+197.,easylang.online,https://easylang.online/ide/,Show HN: A modern BASIC-like teaching and learning programming language,22841336
+198.,vladikk.com,https://vladikk.com/2020/04/09/untangling-microservices,"Untangling microservices, or balancing complexity in distributed systems",22836883
+199.,github.com,https://github.com/zafar-saleem/server/blob/master/README.md,Vacation Management Tool,22846086
+200.,opinionator.blogs.nytimes.com,https://opinionator.blogs.nytimes.com/2008/09/23/toms-essay/,Tom’s Essay (2008),22838995
+201.,github.com,https://github.com/iqlusioninc/aes-sid,AES-based Synthetic IDs: deterministic AE for 64-bit integers,22840355
+202.,youtube.com,https://www.youtube.com/watch?v=xP5-iIeKXE8,"Game of Life, Simulated in the Game of Life (2012) [video]",22845068
+203.,virtualmathmuseum.org,http://virtualmathmuseum.org/,Virtual Math Museum,22843823
+204.,thenextweb.com,https://thenextweb.com/shift/2020/04/10/remembering-the-nucleon-fords-1958-nuclear-powered-concept-car-that-never-was/,"The Nucleon, Ford's 1958 nuclear-powered concept car that never was",22836272
+205.,now.sh,https://mymorningroutine.now.sh/,Show HN: My Morning Routine – Share and Explore Routines,22841464
+206.,nature.com,https://www.nature.com/articles/s41423-020-0424-9,SARS-CoV-2 infects T lymphocytes,22846283
+207.,pnas.org,http://blog.pnas.org/2020/04/fluid-dynamics-work-hints-at-whether-spoken-word-can-spread-covid-19/,Fluid dynamics work hints at whether spoken word can spread Covid-19,22848099
+208.,eleftherios.io,http://eleftherios.io/what-the-decentralized-web-can-learn-from-wikipedia/,What the decentralized web can learn from Wikipedia,22840600
+209.,angel.co,https://angel.co/today/stories/darpa-is-pouring-millions-into-a-new-ai-defense-program-here-are-the-companies-leading-the-charge-17339?email_uid=1259089935&utm_campaign=platform_digest-daily&utm_content=darpa-is-pouring-millions-into-a-new-ai-&utm_medium=email&utm_source=platform_digest-daily&utm_term=,DARPA is pouring millions into a new AI defense program,22844552
+210.,github.com,https://github.com/MichaelMure/git-bug,"Show HN: Git-bug – Distributed bug tracker, or what to do when GitHub is down",22831604
+211.,washingtonpost.com,https://www.washingtonpost.com/world/aggressive-testing-contact-tracing-cooked-meals-how-the-indian-state-of-kerala-flattened-its-coronavirus-curve/2020/04/10/3352e470-783e-11ea-a311-adb1344719a9_story.html,"The Indian state, Kerala, flattened its coronavirus curve; lesson for the world",22852894
+212.,roadandtrack.com,https://www.roadandtrack.com/car-culture/a32092440/26-hour-38-minute-cannonball-record-coronavirus/,A team exploited the coronavirus pandemic to set a new cannonball record,22842110
+213.,sandboxie.com,https://www.sandboxie.com/?hn,Sandboxie released as libre under GPLv3,22841090
+215.,johnlekberg.com,https://johnlekberg.com/blog/2020-04-10-cli-infection.html,Building a command line tool to simulate the spread of an infection,22839561
+216.,capitalandgrowth.org,https://capitalandgrowth.org/answers/2981153/Would-Google-search-make-more-money-if-they-charged-1-cent-per-search,Would Google make more money if they charged 1 cent per search?,22846235
+217.,asm.org,https://jvi.asm.org/content/79/3/1966,Nitric oxide inhibits the replication cycle of SARS coronavirus (2004),22840057
+218.,ieee.org,https://spectrum.ieee.org/tech-talk/computing/software/cobol-programmers-answer-call-unemployment-benefits-systems,COBOL programmers answer call,22837753
+219.,nystudio107.com,https://nystudio107.com/blog/an-annotated-docker-config-for-frontend-web-development,An Annotated Docker Config for Front End Web Development,22841071
+220.,medium.com,https://medium.com/ml-everything/analyzing-us-senators-stock-picks-e8106bbbe8e,Analyzing US Senator’s Stock Picks,22847984
+221.,github.com,https://github.com/bignimbus/game-of-life-n,"Game of Life^n, expressing Conway’s in 3+ dimensions",22845819
+222.,acm.org,https://www.acm.org/virtual-conferences,Virtual Conferences: A Guide to Best Practices,22834422
+223.,utexas.edu,https://golem.ph.utexas.edu/category/2015/02/introduction_to_synthetic_math.html,Introduction to Synthetic Mathematics (2015),22844099
+224.,loup-vaillant.fr,http://loup-vaillant.fr/tutorials/avoid-assignment,How to Avoid the Assignment Statement (2010),22833429
+225.,pagernation.com,https://pagernation.com/,"Show HN: PagerNation – A simple, free, and secure browser-based intercom",22836787
+226.,theatlantic.com,https://www.theatlantic.com/science/archive/2020/04/passage-of-time-relativity-physics/609841/,What Einstein May Have Gotten Wrong,22849456
+227.,mozilla.org,https://www.mozilla.org/en-US/firefox/75.0/releasenotes/,Firefox 75.0,22831506
+228.,techspot.com,https://www.techspot.com/news/84789-latest-zhaoxin-x86-cpus-tested-what-china-closing.html,Latest Zhaoxin x86 CPUs tested: This is what China closing the gap looks like,22852693
+229.,cnn.com,https://www.cnn.com/2020/04/11/us/skink-species-evolution-transition-scn-trnd/index.html,"Lizard laid 3 eggs, delivered another baby via live birth in the same pregnancy",22846408
+230.,youtube.com,https://www.youtube.com/watch?v=Imquk_3oFf4,“Memories” – 256 byte MSDOS intro,22846670
+231.,lesswrong.com,https://www.lesswrong.com/posts/QuzAwSTND6N4k7yNj/seemingly-popular-covid-19-model-is-obvious-nonsense,Seemingly Popular Covid-19 Model Is Obvious Nonsense,22847814
+232.,googleblog.com,https://ai.googleblog.com/2020/04/udepth-real-time-3d-depth-sensing-on.html,UDepth: Real-time 3D Depth Sensing on the Pixel 4,22834965
+233.,bloomberg.com,https://www.bloomberg.com/news/articles/2020-04-12/russian-flight-had-half-of-infections-found-in-china-on-saturday,Half of China's Infections on Saturday Came from an International Flight,22848055
+234.,scriptspry.com,https://scriptspry.com/writerunblock/,Writer Unblock,22841354
+235.,vice.com,https://www.vice.com/en_us/article/epg9be/did-sierra-create-leisure-suit-larry-virus-stop-piracy,Was Leisure Suit Larry an Accomplice in Early Banking Cyberattacks?,22847332
+236.,twitter.com,https://twitter.com/kenshirriff/status/1248739154587840513,Why did the 1982-era MCZ 2/60 desktop computer have an Exxon logo on it?,22842547
+237.,yoongkang.com,https://yoongkang.com/blog/pdf-forms-with-python/,Filling in PDF forms with Python (2018),22838417
+238.,dailymail.co.uk,https://www.dailymail.co.uk/news/article-8212397/Raging-forest-infernos-Chernobyl-Exclusion-Zone-close-exploded-nuclear-reactor.html,Raging forest infernos in Chernobyl Exclusion Zone burning for eight days,22850132
+240.,cpacanada.ca,https://www.cpacanada.ca/en/news/canada/2019-12-13-personal-email-scams,"Extortion emails back on the rise, says report (2019)",22838440
+241.,nytimes.com,https://www.nytimes.com/2020/04/10/style/justin-laboy-instagram-strip-clubs-live.html,The Strip Clubs of Instagram. Going digital may be better for dancers,22842126
+242.,theatlantic.com,https://www.theatlantic.com/culture/archive/2020/03/finding-privacy-during-pandemic/608944/,Homes actually need to be practical now,22845239
+243.,bloomberg.com,https://www.bloomberg.com/opinion/articles/2020-04-10/coronavirus-fallout-u-s-housing-prices-will-tumble,Another U.S.-Wide Housing Slump Is Coming,22846195
+244.,bloomberg.com,https://www.bloomberg.com/news/articles/2020-04-10/two-thirds-of-severe-covid-19-improved-on-gilead-s-remdesivir,Two-thirds of severe Covid-19 cases improved on Gilead drug remdesivir,22841119
+245.,medium.com,https://medium.com/macoclock/we-need-to-talk-about-airpods-pro-4bbd2533e031,We need to talk about AirPods Pro,22833455
+246.,cam.ac.uk,https://www.cam.ac.uk/research/news/covid-19-genetic-network-analysis-provides-snapshot-of-pandemic-origins,Research revealed three distinct variants of Covid-19,22846094
+247.,hartisland.net,https://www.hartisland.net/,The Hart Island Project,22839247
+248.,thebootstrappedfounder.com,https://thebootstrappedfounder.com/the-boring-truth-of-successful-products-that-survive/,The Boring Truth of Successful Products That Survive,22848396
+249.,dw.com,https://www.dw.com/en/far-right-terrorist-ringleader-found-to-be-teenager-in-estonia/a-53085442,Far-right terrorist ringleader found to be teenager in Estonia,22843911
+250.,ietf.org,https://tools.ietf.org/html/draft-rosenberg-dispatch-ript-sipdiffs-00,Real Time Internet Peering for Telephony (RIPT) Comparison with SIP,22831567
+251.,mit.edu,https://sloanreview.mit.edu/article/a-long-time-until-the-economic-new-normal/,A Long Time Until the Economic New Normal,22832914
+253.,crunchydata.com,https://info.crunchydata.com/blog/postgresql-brin-indexes-big-data-performance-with-minimal-storage,PostgreSQL BRIN Indexes: Big Data Performance with Minimal Storage,22837313
+254.,nd.edu,https://churchlifejournal.nd.edu/articles/youre-a-slave-to-money-then-you-die/,"You're a Slave to Money, Then You Die",22847342
+255.,sciencemag.org,https://science.sciencemag.org/content/early/2020/04/08/science.aaz7949,Emergence of complexity in hierarchically organized chiral particles,22831789
+256.,bornfight.com,https://www.bornfight.com/blog/10-principles-of-scalable-frontend-projects/,Principles of scalable front end projects,22832364
+257.,nytimes.com,https://www.nytimes.com/2020/04/08/business/economy/coronavirus-rent.html,31% Can’t Pay the Rent: ‘It’s Only Going to Get Worse’,22852378
+258.,eater.com,https://sf.eater.com/2020/4/10/21216546/san-francisco-delivery-cap-doordash-grubhub-uber-eats-postmates-caviar,San Francisco Emergency Order Says Delivery Apps Must Cap Restaurant Fees at 15%,22838727
+259.,threatpost.com,https://threatpost.com/compromised-zoom-credentials-underground-forums/154616/,Compromised Zoom Credentials Swapped in Underground Forums,22846716
+260.,youtube.com,https://m.youtube.com/watch?v=QvTmdIhYnes&feature=emb_title,Detailed ISS Tour,22846666
+261.,lihaoyi.com,http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html,The Death of Hype: What's Next for Scala,22835136
+262.,github.com,https://github.com/braidchat/braid,Braid – A team-chat app with a novel UI for better conversations,22833304
+263.,nautilusdev.com,http://nautilusdev.com,Show HN: Nautilus: A Docker Compose Charting Tool,22834053
+264.,theguardian.com,https://www.theguardian.com/world/2020/apr/12/uk-government-using-confidential-patient-data-in-coronavirus-response,UK government using confidential patient data in coronavirus response,22849290
+265.,theguardian.com,https://www.theguardian.com/science/2015/jul/23/john-horton-conway-the-most-charismatic-mathematician-in-the-world,John Horton Conway: the world’s most charismatic mathematician,22845389
+266.,qz.com,https://qz.com/africa/1836510/africans-in-china-being-evicted-from-homes-after-lockdown-ends/,Africans in China being targeted and evicted from apartments,22851860
+267.,npr.org,https://www.npr.org/sections/goatsandsoda/2020/04/10/831883664/the-new-coronavirus-appears-to-take-a-greater-toll-on-men-than-on-women,The new coronavirus appears to take a greater toll on men than on women,22837807
+268.,reddit.com,https://www.reddit.com/r/explainlikeimfive/comments/fyh9qr/eli5_how_does_the_poor_mans_log₁₀_calculator/,How does this poor man's log10 calculator trick work?,22841175
+269.,sciencemag.org,https://blogs.sciencemag.org/pipeline/archives/2020/04/11/what-do-the-new-remdesivir-data-mean,What Do the New Remdesivir Data Mean?,22841436
+270.,skeeve.com,http://www.skeeve.com/fork-my-code.html,"Fork My Code, Please (2012)",22832515
+271.,stackexchange.com,https://softwareengineering.stackexchange.com/questions/136085/is-musical-notation-turing-complete,Is musical notation Turing complete?,22848160
+272.,plos.org,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230802,Detection of novel coronaviruses in bats in Myanmar,22848097
+273.,mdpi.com,https://www.mdpi.com/1660-4601/17/7/2557/htm,"Low-Carbohydrate Diets in the Management of Obesity, Type 2 Diabetes: A Review",22848063
+274.,microsoft.com,https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019,Welcome Back to C++,22844975
+275.,psu.edu,https://www.acs.psu.edu/drussell/bats/titanium.html,Why are Titanium Bats Illegal? (2005),22841098
+276.,hex-rays.com,https://www.hex-rays.com/products/ida-home-is-coming/,IDA Home is coming,22832848
+277.,theintercept.com,https://theintercept.com/2014/02/24/jtrig-manipulation/,How covert agents on the internet deceive and destroy reputations (2014),22845152
+278.,alexkreidler.com,https://covidtesting.alexkreidler.com/posts/fema-unprepared/,FEMA was woefully unprepared for this pandemic,22842993
+279.,fastcompany.com,https://www.fastcompany.com/90489239/microsoft-is-giving-parents-12-weeks-paid-parental-leave,Microsoft is giving parents 12 weeks’ paid parental leave,22839089
+281.,theguardian.com,https://www.theguardian.com/uk-news/2020/apr/12/robots-deliver-food-milton-keynes-coronavirus-lockdown-starship-technologies,Robots deliver food in Milton Keynes under coronavirus lockdown,22851003
+282.,nasa.gov,https://www.nasa.gov/feature/goddard/2020/drop-in-air-pollution-over-northeast,NASA Satellite Data Show 30 Percent Drop in Air Pollution over Northeast U.S.,22844949
+283.,arstechnica.com,https://arstechnica.com/science/2020/04/in-the-uk-pandemic-panic-has-people-burning-cell-phone-towers/,"Celebs share rumors linking 5G to coronavirus, nutjobs burn cell towers",22848948
+284.,github.com,https://github.com/benedekrozemberczki/Awesome-DecisioN-Tree-Papers,Decision tree research papers from the last 30 years,22833189
+285.,github.com,https://github.com/djmgit/quickcheat,Show HN: Browser extenion to create command cheatsheets and notes for web pages,22840197
+287.,nytimes.com,https://www.nytimes.com/2020/04/11/world/europe/chernobyl-wildfire.html,"Chernobyl Wildfires Reignite, Stirring Up Radiation",22846353
+288.,cdn-apple.com,https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ContactTracing-FrameworkDocumentation.pdf,Contact Tracing Framework Documentation [pdf],22836579
+289.,epicell.netlify.com,https://epicell.netlify.com/,Show HN: Epicell – A simplified simulator for modelling infectious disease,22831597
+290.,sky.com,https://news.sky.com/story/coronavirus-anger-is-growing-at-china-over-covid-19-and-its-apparent-cover-up-attempt-11966539,Anger is growing at China over Covid-19 and its apparent cover-up attempt,22852423
+291.,wikibooks.org,https://en.wikibooks.org/wiki/Haskell/GADT,Understanding GADTs,22835443
+292.,aerotime.aero,http://aerotime.aero/clement.charpentreau/24788-fighter-jet-crash-averted-by-defect-in-civil-ejection-incident,Fighter jet crash averted by defect in civil ejection incident,22835089
+293.,builtin.com,https://builtin.com/data-science/introduction-segmentation-correlation-time-series-modeling,"A Quick Introduction to Segmentation, Correlation and Time Series Modeling",22834575
+294.,medium.com,https://medium.com/jooseph-blog/why-are-people-bad-at-recognizing-and-interpreting-exponential-growth-45366f8c57d9,Why are people bad at recognizing and interpreting exponential growth?,22840476
+295.,businessinsider.com,https://www.businessinsider.com/study-recovered-coronavirus-patients-antibodies-2020-4,Coronavirus: 8% of recovered patients in one study didn't develop antibodies,22841877
+296.,theatlantic.com,https://www.theatlantic.com/politics/archive/2020/04/coronavirus-san-francisco-london-breed/609808/,Coronavirus in San Francisco: How City Flattened the Curve,22849166
+297.,dbvis.de,https://coronavis.dbvis.de/en/,Germany: Visualization for the Analysis of Covid-19 Bed Capacities,22845293
+298.,theguardian.com,https://www.theguardian.com/technology/gallery/2020/apr/11/the-early-days-of-home-computing-in-pictures,The early days of home computing – in pictures,22843204
+299.,theguardian.com,https://www.theguardian.com/environment/2020/apr/07/record-size-hole-opens-in-ozone-layer-above-the-arctic,Rare ozone hole is result of low temperatures in atmosphere,22837091
+300.,africafeeds.com,https://africafeeds.com/2020/04/12/covid-19-melinda-gates-says-dead-bodies-will-be-on-streets-in-africa/,Covid-19: Melinda Gates says ‘dead bodies’ will be on streets in Africa,22848918
+301.,craigphares.com,https://craigphares.com/quick-and-dirty-static-sites/,Quick and Dirty Static Sites,22832192
+302.,medrxiv.org,https://www.medrxiv.org/content/10.1101/2020.04.05.20051540v1,SARS-CoV-2 titers in wastewater are higher than expected from confirmed cases,22832960
+303.,sicara.ai,https://www.sicara.ai/blog/10-ai-articles-to-read-in-february-2020,Best of AI Articles,22846604
+305.,wikipedia.org,https://en.wikipedia.org/wiki/Surveillance_capitalism,Surveillance Capitalism,22849462
+306.,hbr.org,https://hbr.org/2020/04/how-to-keep-your-team-motivated-remotely,"How to Keep Your Team Motivated, Remotely",22846410
+307.,vorner.github.io,https://vorner.github.io/2020/04/09/wrapping-mental-models.html,Mental models around Ok-Wrapping,22832955
+308.,jeffgeerling.com,https://ansible.jeffgeerling.com,Jeff Geerling's Ansible Content,22836125
+309.,medium.com,https://medium.com/@heykelsier/keeping-a-brag-document-got-me-promoted-at-work-you-should-keep-one-too-5decab952050,Keeping a brag document got me promoted at work. You should keep one too,22846222
+310.,andersriggelsen.dk,https://andersriggelsen.dk/nonlinear/,Nonlinear Size CSS Generator,22835566
+311.,news.com.au,https://www.news.com.au/lifestyle/health/some-doctors-moving-away-from-ventilators-for-coronavirus-patients/news-story/581590f94f8b9e59729f724fb55ed406,Potentially unusually high death rates for COVID19 patients on ventilators,22848138
+315.,cnet.com,https://www.cnet.com/news/singapore-had-the-coronavirus-under-control-now-its-locking-down-the-country/,Singapore had the coronavirus under control. Now it's locking down the country,22849109
+316.,techcrunch.com,https://techcrunch.com/2020/04/10/coronavirus-5g-covid-19-conspiracy-theory-misinformation/,Coronavirus conspiracies like that bogus 5G claim are racing across the internet,22840653
+318.,theverge.com,https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app,Apple and Google are building a coronavirus tracking system into iOS and Android,22846789
+319.,twitter.com,https://twitter.com/BrendanCarrFCC/status/1248445784128983040,FCC Head to China: Could you un-disappear them so we could speak?,22847128
+320.,go.com,https://abcnews.go.com/US/70-people-contract-coronavirus-san-franciscos-largest-homeless/story?id=70102372,70 people contract coronavirus in San Francisco's largest homeless shelter,22848647
+321.,theaisummer.com,https://theaisummer.com/gan-computer-vision/,GAN in Computer Vision: An article series for the most important GAN papers,22841426
+322.,nytimes.com,https://www.nytimes.com/2020/03/27/business/stock-market-pandemic-coronavirus.html,I Became a Disciplined Investor over 40 Years. The Virus Broke Me in 40 Days,22842724
+323.,mercurynews.com,https://www.mercurynews.com/2020/03/29/she-shut-down-the-bay-area-to-slow-the-deadly-coronavirus-none-of-us-really-believed-we-would-do-it/,The Bay Area doctor who ordered America’s first coronavirus lockdown,22837687
+324.,digitalocean.com,https://www.digitalocean.com/community/tutorials/how-to-use-pageant-to-streamline-ssh-key-authentication-with-putty,How to Use Pageant to Streamline SSH Key Authentication with PuTTY,22845192
+325.,github.com,https://github.com/themesberg/pixel-bootstrap-ui-kit,Show HN: Accessibility-First Design System,22842693
+326.,arstechnica.com,https://arstechnica.com/tech-policy/2020/04/frontier-botches-redaction-reveals-952000-potential-network-problems/,Frontier bungles redaction of network audit that it doesn’t want you to see,22837497
+328.,isitflatyet.org,https://isitflatyet.org,Show HN: Isitflatyet.org (Yet Another Coronavirus Map),22839213
+329.,nytimes.com,https://www.nytimes.com/2020/04/10/opinion/coronavirus-texas-fracking-layoffs.html,Coronavirus May Kill Our Fracking Fever Dream,22841791
+330.,statnews.com,https://www.statnews.com/2020/04/07/new-research-wastewater-community-spread-covid-19/,New research looks at wastewater to detect community spread of Covid-19,22838885
+331.,techtudor.blogspot.com,https://techtudor.blogspot.com/2020/04/something-about-corona-virus-statistics.html,Something about the corona virus statistics doesn't add up in the Indian context,22847850
+332.,psychologytoday.com,https://www.psychologytoday.com/us/blog/the-new-brain/202004/neurological-implications-covid-19-raise-concerns,Neurological Implications of Covid-19 Raise Concerns,22846645
+333.,sfchronicle.com,https://www.sfchronicle.com/business/article/San-Francisco-mayor-caps-Uber-Postmates-15192738.php,"San Francisco mayor caps Uber, Postmates, DoorDash delivery commissions",22838937
+334.,vox.com,https://www.vox.com/2020/4/7/21205890/coronavirus-covid-19-pandemic-new-york-california,Coronavirus: Why New York has 12 times as many deaths as California,22843270
+335.,gilead.com,https://www.gilead.com/news-and-press/press-room/press-releases/2020/4/data-on-53-patients-treated-with-investigational-antiviral-remdesivir-through-the-compassionate-use-program-published-in-new-england-journal-of-medici,Data on 53 Patients Treated With Investigational Antiviral Remdesivir,22836923
+336.,opensourceweekly.org,https://opensourceweekly.org/issues/7,SIMD instructions,22833299
+337.,profgalloway.com,https://www.profgalloway.com/capitalists-or-cronyists,Capitalists or Cronyists?,22839725
+338.,ft.com,https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75,Yuval Noah Harari: the world after coronavirus,22847424
+339.,nytimes.com,https://www.nytimes.com/2020/04/08/business/economy/coronavirus-food-banks.html,Food Banks Are Overrun,22843430
+340.,burningman.org,https://journal.burningman.org/2020/04/news/official-announcements/brc-2020-update/,"Burning Man cancelled this year, will move online",22839503
+341.,psychologytoday.com,https://www.psychologytoday.com/ca/blog/homo-consumericus/202004/how-seek-resilience-during-global-pandemic,How to Seek Resilience During a Global Pandemic,22847347
+342.,techdirt.com,https://www.techdirt.com/articles/20200409/02253144266/manufacturers-refuse-to-allow-hospitals-to-fix-ventilators-that-are-last-hope-many-covid-19-patients.shtml,Manufacturers Refuse to Allow Hospitals to Fix Ventilators,22847345
+343.,codepen.io,https://codepen.io/rthavi/pen/RevVzY,Stunning torus in a few lines of JavaScript,22843302
+345.,ted.com,https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win,How to build a company where the best ideas win,22843168
+346.,xot.nl,https://blog.xot.nl/2020/04/11/stop-the-apple-and-google-contact-tracing-platform-or-be-ready-to-ditch-your-smartphone/,Stop the Apple and Google contact tracing platform,22847210
+348.,pastebin.com,https://pastebin.com/HRUZPqEE,If you used sba.com instead of sba.gov,22839309
+349.,lionbridge.ai,https://lionbridge.ai/articles/5-essential-papers-on-sentiment-analysis/,Essential Sentiment Analysis Papers,22840658
+350.,engadget.com,https://www.engadget.com/zoom-is-now-the-facebook-of-video-apps-190024369.html,Zoom is now 'the Facebook of video apps',22839151
+351.,phys.org,https://phys.org/news/2020-04-coronavirus-sars-cov-proteins.html,A map of Sars-CoV-2 activated proteins,22847087
+352.,astronomy.com,https://astronomy.com/magazine/ask-astro/2019/03/spacecraft-communication,What frequencies does NASA use to communicate with spacecraft?,22842606
+354.,nypost.com,https://nypost.com/2020/04/11/coronavirus-patients-can-suffer-lasting-bodily-damage/,"Coronavirus patients can suffer lasting bodily damage, even after recovery",22841826
+355.,city-journal.org,https://www.city-journal.org/higher-ed-diversity-bureaucracy,"Even during a crisis, colleges abuse their economic and reputational privileges",22846852
+356.,twitter.com,https://twitter.com/brettsky/status/1248690641539760128,Contributors Leaving Pytest,22839902
+357.,cannonade.net,http://www.cannonade.net/blog.php?id=1865,My Fourteen Year Side Project,22839887
+358.,youtube.com,https://www.youtube.com/watch?v=jBTfdUkVxLg,"John B. Goodenough, Nobel Prize in Chemistry 2019: Official Interview [video]",22841537
+359.,arstechnica.com,https://arstechnica.com/gadgets/2020/04/linux-on-laptops-asus-zephyrus-g14-with-ryzen-9-4900hs/,Linux on Laptops: Asus Zephyrus G14 with Ryzen 9 4900HS,22841399
+360.,iafrikan.com,https://www.iafrikan.com/2020/04/10/business-coronavirus-manufacturing-covid-19-lessons/,A manufacturing lesson during uncertain times,22836803
+361.,dailymail.co.uk,https://www.dailymail.co.uk/news/article-8208325/Bodies-recovered-NYC-homes-not-counted-COVID-death-toll.html,Hundreds of bodies recovered in NYC not in Covid-19 counts even if symptomatic,22838705
+362.,abc7news.com,https://abc7news.com/coronavirus-covid-19-herd-immunity-california/6091220/,Californians may have developed herd immunity to coronavirus last year,22837148
+363.,medium.com,https://medium.com/@amdahl/covid-19-debunking-the-hemoglobin-story-ce27773d1096,Covid-19: Debunking the Hemoglobin Story,22846391
+364.,theguardian.com,https://www.theguardian.com/world/2020/mar/26/australias-civil-liberties-under-coronavirus-advocates-warn-laws-must-be-temporary#maincontent,Australia’s civil liberties under coronavirus: laws must be temporary,22846251
+366.,vox.com,https://www.vox.com/2020/4/10/21215494/coronavirus-plans-social-distancing-economy-recession-depression-unemployment,The plans to reopen the economy are scary,22832907
+367.,bloomberg.com,https://www.bloomberg.com/news/articles/2020-04-10/apple-google-bring-covid-19-contact-tracing-to-3-billion-people,"Apple, Google Bring Covid-19 Contact-Tracing to 3B People",22835417
+368.,medium.com,https://medium.com/p/walk-through-install-kubernetes-to-your-raspberry-pi-in-15-minutes-84a8492dc95a,Walk-through – install Kubernetes to your Raspberry Pi in 15 minutes,22840474
+370.,independent.co.uk,https://www.independent.co.uk/news/world/asia/coronavirus-wuhan-china-november-us-dia-covid-19-a9459021.html,"US officials knew of Wuhan health crisis in November, a second report claims",22833321
+371.,cbsnews.com,https://www.cbsnews.com/news/footnotes-in-watchdog-report-indicate-fbi-knew-of-risk-of-russian-disinformation-in-the-steele-dossier/,Watchdog FBI knew risk of Russian disinformation in Steele dossier,22845691
+372.,wattenberger.com,https://wattenberger.com/blog/gauge,Creating a Gauge in React,22834201
+373.,eff.org,https://www.eff.org/deeplinks/2020/04/twitter-removes-privacy-option-and-shows-why-we-need-strong-privacy-laws,"Twitter Removes Privacy Option, and Shows Why We Need Strong Privacy Laws",22831973
+374.,ncase.me,https://ncase.me/contact-tracing/,Privacy preserving contact tracing: the comic,22832233
+375.,washingtonpost.com,https://www.washingtonpost.com/politics/2020/02/24/if-youre-worried-that-russian-bots-are-brainwashing-world-take-deep-breath/,A new book on cognitive psychology explains people aren’t nearly as gullible,22839990
+376.,use-the-index-luke.com,https://use-the-index-luke.com/,"Use the Index, Luke",22831842
+377.,medium.com,https://medium.com/@tom.larkworthy/serverless-camunda-terraform-recipe-using-cloud-run-and-cloud-sql-a0c08779c8be,A Serverless Business Workflow Engine Terraform Recipe,22831418
+379.,theguardian.com,https://www.theguardian.com/commentisfree/2020/apr/11/coronavirus-exposed-myth-british-exceptionalism,Coronavirus has exposed the myth of British exceptionalism,22840913
+380.,nytimes.com,https://www.nytimes.com/2020/04/10/upshot/virus-stock-market-booming.html,Why Is the Stock Market Booming?,22834242
+381.,foreignpolicy.com,https://foreignpolicy.com/2020/04/09/unemployment-coronavirus-pandemic-normal-economy-is-never-coming-back/,The Normal Economy Is Never Coming Back,22839462
+382.,lynalden.com,https://www.lynalden.com/currency-war/,How to Win a Currency War,22837518
+383.,stackoverflow.com,https://stackoverflow.com/questions/61085676/can-we-map-pixels-to-inches-accurately-on-screen-css-now,Map Inches on Screen CSS?,22839054
+384.,reddit.com,https://www.reddit.com/r/ProgrammingLanguages/comments/fvvdwj/first_class_messages_in_elena_programming_language/,First class messages in ELENA Programming Language,22832707
+385.,medium.com,https://medium.com/@suphievrakzade/youre-not-angry-at-facebook-but-with-your-friends-fda2731b3b79,"You’re not angry at Facebook, but with your friends",22842376
+386.,nytimes.com,https://www.nytimes.com/2020/04/11/business/coronavirus-destroying-food.html,"Dumped Milk, Smashed Eggs, Plowed Vegetables: Food Waste of the Pandemic",22844950
+387.,indiehackers.com,https://www.indiehackers.com/post/newsletter-only-startups-are-filling-a-niche-in-news-consumption-94d670a06c,Newsletter-only startups are filling a niche in news consumption,22838369
+388.,danielmiessler.com,https://danielmiessler.com/blog/gentoo-vs-debian/,Gentoo vs. Debian,22838108
+389.,techcrunch.com,https://techcrunch.com/2020/04/09/quibi-vs-tiktok/,Quibi Is the Anti-TikTok,22831388
+390.,twitter.com,https://twitter.com/rethab0/status/1248545356331266048,Trick YouTube into playing videos without ads,22831377
+391.,straitstimes.com,https://www.straitstimes.com/asia/east-asia/coronavirus-found-in-air-samples-up-to-4-metres-from-patients-study,Coronavirus found in air samples up to 4 metres from patients: Study,22840486
+392.,houstonchronicle.com,https://www.houstonchronicle.com/lifestyle/renew-houston/health/article/Texas-A-M-pandemic-expert-coronavirus-stages-15192147.php,Texas A&M pandemic expert: Coronavirus will have 5 stages. We’re in stage 2,22841896
+393.,meetup.com,https://www.meetup.com/find/events/?allMeetups=true&keywords=online&radius=Infinity&userFreeform=North+Pole%2C+Alaska%2C+USA&mcId=c99705&mcName=North+Pole%2C+AK&eventFilter=all,List of Online Meetups All over the World,22837083
+394.,theverge.com,https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app,Google and Apple launching coronavirus contact-tracing system,22834975
+395.,twitter.com,https://twitter.com/FairmintCO/status/1248592331034550273,Raise capital from your stakeholders at public market valuation,22836886
+396.,ft.com,https://www.ft.com/content/96398fde-78b7-11ea-9840-1b8019d9a987,Anne Wojcicki: ‘This is the way the world is going’,22836705
+397.,nytimes.com,https://www.nytimes.com/2020/04/11/us/coronavirus-survivors.html,Test-driving immunity: first wave of Americans to recover from Covid-19 emerges,22841463
+398.,medium.com,https://medium.com/@c.andrewlong/web-scraping-like-your-time-is-valuable-65194b1dfe02,Web Scraping Like Your Time Is Valuable,22835814
+399.,go.com,https://abcnews.go.com/Health/colorado-hospital-calling-donors-experimental-promising-coronavirus-treatment/story?id=69951910,"Colorado hospital: experimental, 'promising' coronavirus treatment",22836284
+400.,washingtonpost.com,https://www.washingtonpost.com/world/aggressive-testing-contact-tracing-cooked-meals-how-the-indian-state-of-kerala-flattened-its-coronavirus-curve/2020/04/10/3352e470-783e-11ea-a311-adb1344719a9_story.html,India Kerala coronavirus: How the Communist state flattened its Covid-19 curve,22843742
+401.,i-programmer.info,https://www.i-programmer.info/news/81-web-general/13611-minecraft-education-edition-worlds-available-for-free.html,Minecraft Education Edition Worlds Available for Free,22836121
+402.,nytimes.com,https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.html,"Robots Welcome to Take Over, as Pandemic Accelerates Automation",22833091
+403.,motherjones.com,https://www.motherjones.com/politics/2020/04/nurses-were-promised-10k-a-week-to-serve-in-ny-hospitals-they-say-it-was-a-classic-bait-and-switch/,Nurse “Bait and Switch” with empty $10k/wk promise,22835022
+404.,nationalgeographic.com,https://www.nationalgeographic.com/science/2020/04/why-coronavirus-vaccine-could-take-way-longer-than-a-year/,Why a coronavirus vaccine could take way longer than a year,22838476
+405.,washingtonpost.com,https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-delhi-clean-air-pollution/2020/04/10/ac23dd1e-783e-11ea-a311-adb1344719a9_story.html,"In India, life under coronavirus brings blue skies and clean air",22841110
+406.,twitter.com,https://twitter.com/coldcardwallet/status/1242518436682649602,"Show HN: Coldpower, NO-DATA USB power supply from 9V battery",22833986
+407.,businessinsider.com,https://www.businessinsider.com/bill-gates-warns-coronavirus-outbreak-likely-every-20-years-2020-4,Gates warns that a coronavirus-like outbreak will happen 'every 20 years or so',22834560
+408.,enterprisedb.com,https://www.enterprisedb.com/blog/compare-mongodb-vs-postgresql-join-command,Comparison of Joins: MongoDB vs. PostgreSQL,22834036
+409.,slab.com,https://slab.com/blog/asynchronous-communication/,Embrace Asynchronous Communication in the Workplace,22832467
+410.,freecodecamp.org,https://www.freecodecamp.org/news/pass-the-aws-developer-associate-exam-with-this-free-16-hour-course/,FreeCodeCamp launches a free course for AWS developer certification,22834952
+411.,youtu.be,https://youtu.be/FPsPmkp6sdM,Tyler Cowen on the future social and political implications of Covid-19 [video],22838292
+412.,twitter.com,https://twitter.com/goserverless/status/1245769994215931904,Announcing: Serverless Components GA,22831294
+414.,cnbc.com,https://www.cnbc.com/2020/04/09/chamath-palihapitiya-us-needs-to-let-hedge-funds-billionaires-fail.html,"US shouldn’t bail out hedge funds, billionaires during coronavirus pandemic",22833456
+416.,ft.com,https://www.ft.com/content/4c2c149b-af73-4f07-8b13-67b264f2f7aa,Berlin’s drug dealers adapt to life under coronavirus lockdown,22840719
+417.,tomshardware.com,https://www.tomshardware.com/features/zhaoxin-kx-u6780a-x86-cpu-tested,Zhaoxin KX-U6780A x86 CPU Tested: The Rise of China's Chips,22836785
+420.,zipcall.io,https://zipcall.io/,Show HN: P2P video calling platform with unmatched video quality and latency,22852857
+421.,nytimes.com,https://www.nytimes.com/2020/04/10/technology/coronavirus-5g-uk.html,A Virus Conspiracy Theory Fueled Arson and Harassment in Britain,22835642
+422.,nytimes.com,https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html,"Most New York Coronavirus Cases Came from Europe, Genomes Show",22839387
+423.,vedipen.com,https://vedipen.com/2020/linux-bash-vs-windows-powershell/,Linux Bash vs. Windows PowerShell,22847986
+426.,troyhunt.com,https://www.troyhunt.com/lets-stop-the-5g-hysteria-understanding-hoaxes-and-disinformation-campaigns/,Let's Stop the 5G Hysteria: Understanding Hoaxes and Disinformation Campaigns,22831531
+427.,medium.com,https://medium.com/quantap/zen-and-the-art-of-building-a-startup-during-a-pandemic-ef4e86b5691c,Zen and the Art of Building a Startup During a Pandemic,22835201
+428.,nature.com,https://www.nature.com/articles/d41586-020-01068-3,Thousands of coronavirus tests are going unused in US labs,22831611
+429.,stanford.edu,https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf,How to Read a Paper [pdf],22851478
+430.,foreignpolicy.com,https://foreignpolicy.com/2020/04/09/taiwan-is-exporting-its-coronavirus-successes-to-the-world/,Taiwan Is Exporting Its Coronavirus Successes to the World,22836267
+431.,joekent.nyc,https://joekent.nyc/google-apple-contact-tracing,Apple and Google Are Going to Enable Contact Tracing,22846296
+432.,apple.com,https://www.apple.com/covid19/contacttracing,Privacy-Preserving Contact Tracing: Apple and Google draft specification,22835064
+433.,arp242.net,https://www.arp242.net/yaml-config.html,YAML: Probably not so great after all (2019),22847940
+434.,diagram.codes,https://studio.diagram.codes/,Diagram.Codes Studio â€“ use a simple set of text conventions to generate diagrams,22838257
+435.,wired.com,https://www.wired.com/story/signal-earn-it-ransomware-security-news/,Signal Threatens to Leave the US If Earn IT Act Passes,22841846
+436.,blog.google,https://blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology/,Apple and Google partner on Covid-19 contact tracing technology,22835019
+437.,reuters.com,https://www.reuters.com/article/us-health-coronavirus-southkorea/south-korea-reports-recovered-coronavirus-patients-testing-positive-again-idUSKCN21S15X,South Korea reports recovered Covid-19 patients testing positive again,22833413
+438.,vox.com,https://www.vox.com/2020/4/10/21215494/coronavirus-plans-social-distancing-economy-recession-depression-unemployment,There Is No Plan to Return to Normalcy in 2020,22835162
+439.,zdnet.com,https://www.zdnet.com/article/cloudflare-dumps-recaptcha-as-google-intends-to-charge-for-its-use/,Cloudflare dumps reCAPTCHA as Google intends to charge for its use,22846859
+440.,techcrunch.com,https://techcrunch.com/2020/04/10/apple-and-google-are-launching-a-joint-covid-19-tracing-tool/,Apple and Google are launching a joint Covid-19 tracing tool for iOS and Android,22835356
+441.,theblaze.com,https://www.theblaze.com/news/fcc-commissioner-twitter-thread-china-undisappear,FCC Commissioner to China: 'Could you un-disappear them so we could speak?',22852027
